@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://dev.azure.com/luisedumenoita/External%20Source%20-%20GitHub/_apis/build/status%2Fedumenoita.calculator?branchName=master)](https://dev.azure.com/luisedumenoita/External%20Source%20-%20GitHub/_build/latest?definitionId=8&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
